@@ -1,0 +1,24 @@
+/task_manager.0
+   /auth
+      login.html
+      login.php
+      logout.php
+      register.php
+      register.html
+   /tasks
+      add_task.php
+      edit_task.php
+      delete_task.php
+   /uploads
+   /z_css
+      style.css
+   dashboard.php
+   delete_file.php
+   upload_file.html
+   upload_file.php
+   delete_file.php
+   view_files.php
+   view_user_data.php
+   write_user_data.php
+   db_connect.php
+   user_data.txt                                                       
